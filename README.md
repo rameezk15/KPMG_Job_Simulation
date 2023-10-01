@@ -55,7 +55,7 @@ Throughout this internship, I gained valuable insights:
 - The world of data analytics is both challenging and rewarding.
 
 ## Connect with Me 🌟
-I'm excited to continue my data-driven journey and connect with others who share a passion for data, analytics, and visualization. Feel free to connect with me on LinkedIn and let's explore the endless possibilities of data together! [LinkedIn Profile](#[your-linkedin-profile](https://www.linkedin.com/in/rameezkhan15/))
+I'm excited to continue my data-driven journey and connect with others who share a passion for data, analytics, and visualization. Feel free to connect with me on LinkedIn and let's explore the endless possibilities of data together! [LinkedIn Profile](https://www.linkedin.com/in/rameezkhan15/)
 
 Thank you for visiting this repository, and I hope you find the project and its documentation informative and inspiring!
 
