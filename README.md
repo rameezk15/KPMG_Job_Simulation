@@ -31,9 +31,9 @@ In the final leg of my internship, I used Power BI to create interactive dashboa
 In addition to the tasks mentioned earlier, I've conducted in-depth data exploration, uncovering valuable insights that shed light on various aspects of our business. Here are some key findings:
 
 ### Bike-Related Purchases and Profits Across Age Groups and Wealth Segments:
-- People aged between 30 to 40 make more bike-related purchases compared to other age groups. They also contribute the most to profit, as shown in both graphs.
-- This trend suggests an increase in buying power within this age group, peaking at around 30-40 years, before gradually declining with age, resulting in lower profits.
-- Remarkably, the 30-40 age group within the mass customer segment generates the highest profit.
+- People aged between 40-50 make more bike-related purchases compared to other age groups. They also contribute the most to profit, as shown in both graphs.
+- This trend suggests an increase in buying power within this age group, peaking at around 40-50 years, before gradually declining with age, resulting in lower profits.
+- Remarkably, the 40-50 age group within the mass customer segment generates the highest profit.
 
 ### Leading Job Industries Enhancing Profit and Bike-Related Purchases:
 - The majority of profit contributions in the bike-related purchases area come from the top three industry sectors: Financial Services, Health, and Manufacturing, accounting for a total of 57%.
